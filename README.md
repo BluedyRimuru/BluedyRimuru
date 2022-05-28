@@ -23,8 +23,10 @@ Je suis étudiant en 1ère année d'un BTS des Services Informatiques aux Organi
   <a href="https://www.youtube.com/channel/UCu-s9lM4-YYXG8ss2JO94xg"><img height="30" src="youtube.png"></a>&nbsp;&nbsp;
   <a href="https://github.com/BluedyRimuru"><img height="30" src="github.png"></a>&nbsp;&nbsp;
   <a href=""><img height="30" src="discord_1.png"></a>&nbsp;&nbsp;
+  <!--
   <a href=""><img height="24" src=""></a>&nbsp;&nbsp;
   <a href=""><img height="24" src=""></a>&nbsp;&nbsp;
+  -->
 </p>
 <details>
   <summary><strong>Travail sur les technologies : </strong></summary>
