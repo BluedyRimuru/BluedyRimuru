@@ -22,3 +22,11 @@ Here are some ideas to get you started:
   <a href=""><img height="24" src=""></a>&nbsp;&nbsp;
   <a href=""><img height="24" src=""></a>&nbsp;&nbsp;
 </p>
+<details>
+  <summary><strong>Travail sur les technologies : </strong></summary>
+  - HTML / CSS (Intermédiare)
+  - PHP (En apprentissage...)
+  - Symfony / Laravel (Prochainement...)
+  - Python (Débutant)
+  - JavaScript (Débutant)
+</details>
