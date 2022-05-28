@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 </p>
 <details>
   <summary><strong>Travail sur les technologies : </strong></summary>
-  - HTML / CSS (Intermédiare)
-  - PHP (En apprentissage...)
-  - Symfony / Laravel (Prochainement...)
-  - Python (Débutant)
+  - HTML / CSS (Intermédiare) <br/>
+  - PHP (En apprentissage...) <br/>
+  - Symfony / Laravel (Prochainement...) <br/>
+  - Python (Débutant) <br/>
   - JavaScript (Débutant)
 </details>
