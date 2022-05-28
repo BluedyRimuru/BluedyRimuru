@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCu-s9lM4-YYXG8ss2JO94xg"><img height="24" src="https://imgur.com/MOPENP4"></a>&nbsp;&nbsp;
+  <a href="https://github.com/BluedyRimuru"><img height="24" src="https://imgur.com/3SHgBet"></a>&nbsp;&nbsp;
+  <a href=""><img height="24" src="https://imgur.com/VwBSGbw"></a>&nbsp;&nbsp;
+  <a href=""><img height="24" src=""></a>&nbsp;&nbsp;
+  <a href=""><img height="24" src=""></a>&nbsp;&nbsp;
+</p>
