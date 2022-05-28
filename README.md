@@ -42,4 +42,4 @@ Je suis étudiant en 1ère année d'un BTS des Services Informatiques aux Organi
   - Beltaria & AkaRuiDeSu (En développement...) <br/>
 </details>
 
-![BluedyRimuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=BluedyRimuru&count_private=true&theme=radical&hide=contribs,prs&show_icons=true)
+[![BluedyRimuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=BluedyRimuru&count_private=true&theme=radical&hide=contribs,prs&show_icons=true)](https://github.com/BluedyRimuru)
