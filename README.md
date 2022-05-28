@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCu-s9lM4-YYXG8ss2JO94xg"><img height="24" src="youtube.png"></a>&nbsp;&nbsp;
-  <a href="https://github.com/BluedyRimuru"><img height="24" src="discord_1.png"></a>&nbsp;&nbsp;
-  <a href=""><img height="24" src="discord_2.png"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCu-s9lM4-YYXG8ss2JO94xg"><img height="30" src="youtube.png"></a>&nbsp;&nbsp;
+  <a href="https://github.com/BluedyRimuru"><img height="30" src="discord_1.png"></a>&nbsp;&nbsp;
+  <a href=""><img height="30" src="discord_2.png"></a>&nbsp;&nbsp;
   <a href=""><img height="24" src=""></a>&nbsp;&nbsp;
   <a href=""><img height="24" src=""></a>&nbsp;&nbsp;
 </p>
