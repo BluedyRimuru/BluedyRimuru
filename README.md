@@ -38,7 +38,7 @@ Je suis étudiant en 1ère année d'un BTS des Services Informatiques aux Organi
 </details>
 <details>
   <summary><strong>Mes Projets & Travaux : </strong></summary>
-  - Vision du 15e (En cours...) <br/>
+  - Vision du 15e : http://www.visiondu15e.com/ (Terminé !) <br/>
   - Beltaria & AkaRuiDeSu (En développement...) <br/>
 </details>
 
