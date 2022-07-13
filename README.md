@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 Je suis étudiant en 1ère année d'un BTS des Services Informatiques aux Organisations en option SLAM (Solutions Logicielles et Application Métier). Je suis passionné des nouvelles technologies et en particulier de ce vaste monde qu'est celui de developpeur. Désireux d'en apprendre davantage dans ce milieu et de partager mes créations, je mets à disposition mes projets en Open-Source afin de recueillir l'avis d'autrui.
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCu-s9lM4-YYXG8ss2JO94xg"><img height="30" src="youtube.png"></a>&nbsp;&nbsp;
-  <a href="https://github.com/BluedyRimuru"><img height="30" src="github.png"></a>&nbsp;&nbsp;
-  <a href=""><img height="30" src="discord_1.png"></a>&nbsp;&nbsp;
+  <a target="_blank" href="https://www.youtube.com/channel/UCu-s9lM4-YYXG8ss2JO94xg"><img height="30" src="youtube.png"></a>&nbsp;&nbsp;
+  <a target="_blank" href="https://github.com/BluedyRimuru"><img height="30" src="github.png"></a>&nbsp;&nbsp;
+  <a target="_blank" href=""><img height="30" src="discord_1.png"></a>&nbsp;&nbsp;
   <!--
   <a href=""><img height="24" src=""></a>&nbsp;&nbsp;
   <a href=""><img height="24" src=""></a>&nbsp;&nbsp;
@@ -38,7 +38,7 @@ Je suis étudiant en 1ère année d'un BTS des Services Informatiques aux Organi
 </details>
 <details>
   <summary><strong>Mes Projets & Travaux : </strong></summary>
-  - Vision du 15e : http://www.visiondu15e.com/ (Terminé !) <br/>
+  - Vision du 15e : <a target="_blank" href="http://www.visiondu15e.com/">http://www.visiondu15e.com/</a> (Terminé !) <br/>
   - Beltaria & AkaRuiDeSu (En développement...) <br/>
 </details>
 
