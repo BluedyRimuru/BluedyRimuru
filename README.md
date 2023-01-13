@@ -43,5 +43,3 @@ Je suis étudiant en seconde année d'un BTS des Services Informatiques aux Orga
 </details>
 
 [![BluedyRimuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=BluedyRimuru&count_private=true&theme=radical&hide=contribs,prs&show_icons=true)](https://github.com/BluedyRimuru)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BluedyRimuru&langs_count=8)](https://github.com/BluedyRimuru/github-readme-stats)
