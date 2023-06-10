@@ -4,3 +4,4 @@
 ### Autres projets : [ici](https://github.com/BluedyAishela)
 ### Site internet Beltaria : [ici](https://beltaria.github.io/)
 -->
+<img src="https://cdn.discordapp.com/attachments/1071844091509350400/1116886010396147754/360_F_404736191_lpBkqfVatsyTu5UpZoG7Xv10jgid6Xoi.jpg" alt="banner"/>
